@@ -5,5 +5,5 @@ First run the server.exe and then client.exe.
 Server.exe only works when client.exe is running.
 Start the chat and enjoy.
 
-#Requirements
+# Requirements
 Knowledge of Socket and Tkinter.
